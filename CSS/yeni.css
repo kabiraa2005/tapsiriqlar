@@ -1,0 +1,425 @@
+* {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+}
+.anin{
+    position: absolute;
+    position: fixed;
+    right: 15px;
+    top: 15px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(99, 97, 97);
+    border-radius: 5%;
+    text-decoration: underline;
+}
+.anin :hover{
+    background-color: rgb(13, 13, 14);
+}
+.i1{
+    align-items: center;
+    font-size: 40px;
+    background-color:rgb(99,97, 97) ;
+    color: aliceblue;
+}
+.headerr{
+    position: relative;
+    width: 100%;
+    padding-top: 450px;
+    padding-left: 200px;
+    padding-bottom: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    align-items: center;
+    background: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+}
+.hlar{
+    text-align: center !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+}
+.h11{
+    color: rgb(47, 45, 42);
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h12{
+    color:rgb(47, 45, 42);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.b1{
+    background-color: rgb(4, 100, 131);
+    width: 200px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-color:rgb(4, 100, 131);
+}
+.h13{
+    color: aliceblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.b1 :hover{
+    background-color: rgb(46, 107, 107);
+    border-radius: 10px;
+}
+#about{
+    padding-top: 100px;
+    padding-bottom:100px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    align-items: center;
+    background-color: aliceblue;
+}
+.content1{
+    text-align: center !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+}
+.a111{
+    text-decoration: none;
+}
+.h14{
+    color: rgb(3, 2, 1);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h15{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.a112{
+    text-decoration: none;
+}
+.b2{
+    background-color: rgb(24, 24, 24);
+    width: 200px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-color:rgb(24, 24, 24);
+}
+.h16{
+    color: aliceblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.b2 :hover{
+    background-color: rgb(66, 63, 63);
+    border-radius: 10px;
+}
+#whatweoffer{
+    background-color: rgb(10, 183, 186);
+    padding-top: 50px;
+    padding-bottom:100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top:50px;
+    margin-right:50px;
+    margin-left:50px;
+}
+.h17{
+    font-size: 40px;
+    color: rgb(233, 154, 35);
+    text-align: center;
+}
+.h18{
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+}
+.responsivee{
+color: aliceblue;
+    font-size: 50px;
+}
+.redesignedd{
+    color: aliceblue;
+    font-size: 50px;
+}
+.favoritedd{
+    color: aliceblue;
+    font-size: 50px;
+}
+.questionn{
+    color: aliceblue;
+    font-size: 50px;
+}
+.h19{
+    color: aliceblue;
+    font-size: 40px;
+}
+.h20{
+    color: aliceblue;
+    font-size: 40px;
+}
+.h21{
+    color: aliceblue;
+    font-size: 40px;
+}
+.h22{
+    color: aliceblue;
+    font-size: 40px;
+}
+.h191{
+    color: aliceblue;
+}
+.h201{
+    color: aliceblue;
+}
+.h211{
+    color: aliceblue;
+}
+.h221{
+    color: aliceblue;
+}
+#web{
+    padding-top: 300px;
+    padding-bottom:200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    align-items: center;
+    background: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+}
+.hlarr3{
+    text-align: center !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+}
+.h23{
+
+    color: rgb(47, 45, 42);
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dd11{
+    margin-top: 100px;
+}
+.b4{
+    background-color: rgb(4, 100, 131);
+    width: 200px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-color:rgb(4, 100, 131);
+}
+.b1 :hover{
+    background-color: rgb(46, 107, 107);
+    border-radius: 10px;
+}
+#port{
+    padding-top: 7.5rem;
+    padding-bottom: 7.5rem;
+}
+.hlarr666{
+    text-align: center;
+}
+.h30{
+    font-size: 40px;
+    color: rgb(233, 154, 35);
+    text-align: center;
+}
+.h31{
+    font-size: 60px;
+    color: rgb(17, 20, 22);
+    text-align: center;
+}
+.portfolio-item{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    max-width: 530px;
+    margin: auto auto 1rem;
+}
+.row11{
+    margin: auto;
+    display: flex;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-0.5 * var(--bs-gutter-x));
+    margin-left: calc(-0.5 * var(--bs-gutter-x));
+}
+.roww12{
+
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+}
+.imggg{
+    width:100%;
+    max-width: 100%;
+    height: auto;
+}
+.h555{
+    text-decoration: none;
+}
+.caption{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(33, 37, 41, 0.2);
+    position: absolute;
+}
+.mb-0{
+    color: aliceblue;
+}
+.h2{
+    color: aliceblue;
+}
+.roww12 :hover{
+    transform: scale(0.9);
+    background-blend-mode: color-burn;
+}
+.ikili{
+    display: flex;
+    width: 50%;
+}
+.diger{
+    display: flex;
+    width: 50%;
+}
+#choose{
+    background-color: rgb(10, 183, 186);
+    padding-top: 100px;
+    padding-bottom:100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    height: auto;
+}
+.h2222{
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.buttonlar{
+    text-align: center;
+}
+.b8{
+    background-color: rgb(24, 24, 24);
+    width: 200px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-color:rgb(24, 24, 24);
+}
+.b7{
+    background-color: rgb(249, 245, 245);
+    width: 200px;
+    text-decoration: none;
+    margin-top: 50px;
+    border-radius: 10px;
+    border-color:rgb(24, 24, 24);
+}
+.h223{
+    color: rgb(11, 12, 12);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.b8 :hover{
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+}
+.b7 :hover{
+    background-color: rgb(168, 168, 169);
+    border-radius: 10px;
+}
+.map iframe{
+    height: 200%;
+    width: 100%;
+}
+.container px-4 px-lg-5{
+    display: block;
+    display: flex;
+    width: 50px;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+footer .social-link rounded-circle text-white mr-3 {
+    display: block;
+    text-decoration: none;
+    height: 4rem;
+    width: 4rem;
+    line-height: 4.3rem;
+    font-size: 1.5rem;}
+    list-inline-item {
+        margin-right: 0.5rem;
+    }
+ footer{
+    
+    text-align: center;
+    }
+    
+    .facee{
+        color: rgb(8, 164, 170);
+    font-size: 30px;
+    }
+    .facee :hover{
+        background-color: rgb(135, 211, 211);
+        border-radius: 50px;
+    }
+    .anin1{
+        position: absolute;
+    position: fixed;
+    right: 15px;
+    bottom:15px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(99, 97, 97);
+    border-radius: 5%;
+    text-decoration: underline;
+    }
+    .anin1 :hover{
+        background-color: rgb(13, 13, 14);
+    }
+    .i1112{
+        font-size: 40px;
+    color: aliceblue;
+    }
+    .buttonlarim{
+        display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top:50px;
+    margin-right:50px;
+    margin-left:50px;
+        }
+        .normal{
+            text-align: center;
+        }
+        .a1133{
+            text-decoration: none;
+        }
